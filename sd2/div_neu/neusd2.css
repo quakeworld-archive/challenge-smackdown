@@ -1,0 +1,156 @@
+
+
+BODY {
+	background-color: #4C7084;
+	font-family:verdana, arial;
+	font-size: 8pt;
+	color: #B3C6D1;
+}
+
+TD {
+	font-family:verdana, arial;
+	font-size: 8pt;
+	color: #B3C6D1;
+}
+
+P {
+	font-family:verdana, arial;
+	font-size: 8pt;
+	color: #B3C6D1;
+}
+
+STRONG {
+	font-weight: bold;
+}
+
+A {
+	color: #E3F6FF;
+        font-size: 10pt;
+	text-decoration:none;
+}
+
+A:link {
+}
+
+A:visited {
+	color: #8396A1;
+}
+
+A:active {
+	color: #000000;
+}
+
+A:hover {
+	color: #000000;
+}
+
+.articleDate {
+        color: #8396A1;
+}
+
+.articleAuthor {
+	color: #8396A1;
+}
+
+.articleAuthor A:link {
+        font-size: 8pt;
+}
+
+.headline {
+	font-size: 10pt;
+	color: #FFFFFF;
+}
+
+.articleBody {
+}
+
+.quoted {
+	font-style: italic;
+}
+
+.redquoted {
+	font-style: italic;
+        color: red;
+}
+
+.newsTitle {
+	font-size: 18pt;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+.linksHeading {
+	font-size: 9pt;
+	font-weight: bold;
+	color: #B3C6D1;
+}
+
+.monitor  {
+	font-size: 10pt;
+}
+
+.monitor A:link {
+}
+
+.monitor A:visited {
+	color: #8396A1;
+}
+.monitor A:active  {
+	color: #000000;
+}
+.monitor A:hover   {
+	color: #000000;
+}
+
+.monitorDate {
+	font-weight: bold;
+	color: #B3C6D1;
+}
+
+.footer {
+        color: #8396A1;
+}
+
+.footer A {
+        color: #8396A1;
+	font-size: 8pt;
+}
+
+.commentTitle {
+	font-size: 10pt;
+	color: #FFFFFF;
+}
+
+.commentBody {
+	color: #B3C6D1;
+}
+
+.commentDate {
+	font-size: 8pt;
+}
+
+.commentAuthor {
+}
+
+.commentAuthor A:link{
+}
+
+.commentIP {
+}
+
+.commentField {
+}
+
+.smallLink A:link {
+	color: #B3C6D1;
+	font-style: italic
+	font-size: 8pt;
+}
+
+.smallLink A:visited {
+	color: #8396A1;
+}
+
+.smallLink A:hover {
+	color: #000000;
+}
