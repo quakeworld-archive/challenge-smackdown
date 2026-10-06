@@ -1,5 +1,5 @@
 # Challenge Smackdown
 
-> Worldwide QuakeWorld 4on4 TDM league of the Challenge Network (season 2: 2001)
+> Multi-region QuakeWorld 4on4 TDM League (2000-2005)
 
 🔗 [**archive.quake.world/challenge-smackdown/**](https://archive.quake.world/challenge-smackdown/)
